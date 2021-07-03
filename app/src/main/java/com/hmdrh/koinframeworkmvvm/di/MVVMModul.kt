@@ -5,7 +5,7 @@ import com.hmdrh.koinframeworkmvvm.viewmodel.Test
 import com.hmdrh.koinframeworkmvvm.viewmodel.TestImp
 import org.koin.androidx.viewmodel.dsl.viewModel
 import org.koin.dsl.bind
-import org.koin.dsl.module
+import org.koin.dsl.modulek
 
 val mVVMModul = module {
 
